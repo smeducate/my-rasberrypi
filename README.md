@@ -1,4 +1,4 @@
 # my-rasberrypi
 My experience with Rasberry Pi
 
-![](pi-image.jpg)
+![](Raspberry_pi_2_2)
